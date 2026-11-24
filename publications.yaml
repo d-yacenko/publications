@@ -31,6 +31,13 @@ ratings_audit:
   checked: "2026-11-24"
   report: "RATINGS.md"
   status: "partial; current full VAK list and historical editions pending"
+wos_snapshot:
+  observed: "2026-11-24"
+  source: "Author-provided Web of Science publication management screenshot"
+  records: 12
+  unique_records: 11
+  duplicate: "WIP-002 Russian and English titles"
+  caveat: "Profile presence is not evidence of Core Collection indexing; no accession numbers shown."
 publications:
   - id: "PUB-015"
     type: "article"
@@ -83,6 +90,9 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29974/"
     rating_caveat: "1.2.2, 2.3.5, 2.3.6; сверить отрасль и действующую редакцию"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "Not Indexed"
 
   - id: "WIP-002"
     type: "article"
@@ -109,6 +119,10 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29601/"
     rating_caveat: "1.2.4, 2.2.15, 2.3.1, 2.3.5, 2.3.6; сверить отрасль и действующую редакцию"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "Not Indexed"
+    wos_profile_entries: 2
 
   - id: "PUB-002"
     type: "article"
@@ -139,6 +153,9 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
     rating_caveat: "Включён в Белый список 09.09.2025; специальности 2.2.15, 2.3.1–2.3.8, 2.5.1 по перечню 2023; актуальность сверить"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
 
   - id: "PUB-014"
     type: "article"
@@ -169,6 +186,9 @@ publications:
     rating_source: "https://www.enigma.ist/j/mathematics-ai/about"
     rating_caveat: "Журнал ОАЭ; DOI и рецензирование не доказывают ВАК"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
 
   - id: "PUB-003"
     type: "article"
@@ -198,6 +218,9 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
     rating_caveat: "На дату статьи (март 2025) ещё не в Белом списке"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
 
   - id: "PUB-004"
     type: "inproceedings"
@@ -266,6 +289,9 @@ publications:
     rating_source: "https://data.mendeley.com/"
     rating_caveat: "Датасеты"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
 
   - id: "PUB-007"
     type: "incollection"
@@ -306,6 +332,9 @@ publications:
     rating_source: "https://fis.tu-dresden.de/portal/en/journals/lecture-notes-in-networks-and-systems%280ff7d173-c7ab-460f-90fc-078cff902f07%29.html"
     rating_caveat: "Серия книг; Scopus подтверждён для работы, не означает ВАК"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
 
   - id: "PUB-009"
     type: "article"
@@ -337,6 +366,9 @@ publications:
     rating_source: "https://airccse.org/journal/ijsc/index.html"
     rating_caveat: "Не путать с одноимёнными журналами"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
 
   - id: "PUB-010"
     type: "incollection"
@@ -386,6 +418,9 @@ publications:
     rating_source: "https://data.mendeley.com/"
     rating_caveat: "Датасеты"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
 
   - id: "PUB-006"
     type: "inproceedings"
@@ -417,6 +452,9 @@ publications:
     rating_source: "https://www.scopus.com/authid/detail.uri?authorId=58654397400"
     rating_caveat: "Материалы конференции; Scopus подтверждён"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
 
   - id: "PUB-008"
     type: "inproceedings"
@@ -479,6 +517,9 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
     rating_caveat: "Не переносить современные рейтинги на 2020"
     rating_checked: "2026-11-24"
+    wos_profile_present: true
+    wos_profile_observed: "2026-11-24"
+    wos_profile_indexing_label: "Not Indexed"
 
   - id: "PUB-012"
     type: "article"
