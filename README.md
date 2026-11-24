@@ -1,8 +1,8 @@
 # Публикации / Publications — Дмитрий Владимирович Яценко (Dmitry Iatsenko)
 
-[YAML](publications.yaml) · [BibTeX](publications.bib) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Iatsenko/research)
+[YAML](publications.yaml) · [BibTeX](publications.bib) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Iatsenko/research) · [ORCID](https://orcid.org/0000-0003-1014-0376) · [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58654397400)
 
-Обновлено 24.11.2026. Верификация означает подтверждение библиографической записи по издателю или научной организации, а не рейтинга или индексации издания. Датасеты не учитываются как статьи.
+Обновлено 24.11.2026. Верификация означает подтверждение библиографической записи по издателю или научной организации, а не рейтинга или индексации издания. Датасеты не учитываются как статьи. Сведения дополнены по предоставленным скриншотам ORCID (11 записей); самозаполненный профиль не заменяет независимую проверку.
 
 ## Верифицированные публикации / Verified publications
 
@@ -18,7 +18,7 @@
 
 6. Iatsenko, Dmitry. **TelecomX** // Mendeley Data. 2024. DOI: [10.17632/3t6rbtcms8.1](https://doi.org/10.17632/3t6rbtcms8.1). [Источник](https://data.mendeley.com/datasets/3t6rbtcms8/1). Dataset; version 1
 
-7. Kotenko, Igor; Saenko, Igor; Lauta, Oleg; Vasiliev, Nikita; Iatsenko, Dmitry. **Attacks Against Machine Learning Systems: Analysis and GAN-based Approach to Protection** // Proceedings of the Seventh International Scientific Conference “Intelligent Information Technologies for Industry” (IITI’23). Springer. 2023. Lecture Notes in Networks and Systems. Vol. 777. P. 49–59. DOI: [10.1007/978-3-031-43792-2_5](https://doi.org/10.1007/978-3-031-43792-2_5). [Источник](https://link.springer.com/book/10.1007/978-3-031-43792-2?page=1).
+7. Kotenko, Igor; Saenko, Igor; Lauta, Oleg; Vasiliev, Nikita; Iatsenko, Dmitry. **Attacks Against Machine Learning Systems: Analysis and GAN-based Approach to Protection** // Proceedings of the Seventh International Scientific Conference “Intelligent Information Technologies for Industry” (IITI’23). Springer. 2023. Lecture Notes in Networks and Systems. Vol. 777. P. 49–59. DOI: [10.1007/978-3-031-43792-2_5](https://doi.org/10.1007/978-3-031-43792-2_5). [Источник](https://link.springer.com/book/10.1007/978-3-031-43792-2?page=1). Scopus EID: [2-s2.0-85174444611](https://www.scopus.com/record/display.uri?eid=2-s2.0-85174444611) (по импорту Scopus в ORCID).
 
 8. Iatsenko, D. V. **Texts Classification with the Usage of Neural Network Based on the Word2Vec’s Words Representation** // International Journal on Soft Computing. 2023. Vol. 14. No. 2. P. 1–13. DOI: [10.5121/ijsc.2023.14201](https://doi.org/10.5121/ijsc.2023.14201). [Источник](https://www.mendeley.com/catalogue/a19ae5eb-3678-33c8-9f7f-2e16bded4a91/).
 
