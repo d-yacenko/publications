@@ -20,6 +20,13 @@ scopus_snapshot:
   citing_documents: 6
   h_index: 1
   caveat: "Limited access: only one of two documents displayed."
+elibrary_snapshot:
+  profile: "https://elibrary.ru/author_items.asp?authorid=1048151"
+  observed: "2026-11-24"
+  source: "Author-provided eLIBRARY screenshot"
+  records: 13
+  citations: 41
+  caveat: "Includes whole-volume record with 30 citations and a disputed authorship record; not a deduplicated personal citation total."
 publications:
   - id: "PUB-015"
     type: "article"
@@ -55,6 +62,13 @@ publications:
     title_en: "Combining handwriting dynamics with ConvNeXtV2 convolutional backbone for handwritten character recognition on Russian- and English-language Datasets"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Russian and English title records; deduplicated."
+    elibrary_pages: "195--206"
+    pagination_discrepancy: "eLIBRARY screenshot gives 195–206; existing Math-Net citation gives 195–203. Retain pending publisher reconciliation."
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 1
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "WIP-002"
     type: "article"
     category: "verified"
@@ -71,6 +85,11 @@ publications:
     orcid_source: "https://orcid.org/0000-0003-1014-0376"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Matching title in author-provided profile screenshot."
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 0
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-002"
     type: "article"
     category: "verified"
@@ -78,7 +97,7 @@ publications:
     title: "Метод индексированного поиска схожих векторов в базах данных"
     venue: "Вестник компьютерных и информационных технологий"
     year: 2026
-    number: "1"
+    number: "1 (259)"
     pages: "12--15"
     doi: "10.14489/vkit.2026.01.pp.012-015"
     url: "https://www.vkit.ru/index.php/archive-rus/1489-012-015"
@@ -90,6 +109,12 @@ publications:
     title_en: "Implementation of an Indexed Method for Searching Similar Vectors in Databases"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Matching title in author-provided profile screenshot."
+    volume: "23"
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 0
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-014"
     type: "article"
     category: "verified"
@@ -133,32 +158,47 @@ publications:
     title_en: "A Data Set of Handwritten Characters of the Russian Language"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Matching title in author-provided profile screenshot."
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 0
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-004"
     type: "inproceedings"
-    category: "other"
+    category: "verified"
     author: "Михник, Д. Р. and Яценко, Д. В."
     title: "Модели машинного обучения для распознавания паттернов мышечной активности"
     venue: "Компьютерные и информационные технологии в науке, инженерии и управлении (КомТех-2025)"
     year: 2025
     pages: "26--31"
     url: "https://ivtipt.ru/news/nedelya-nauki-ivt-i-pt-yufu2025"
-    note: "Найден доклад с Яценко как научным руководителем; авторство в сборнике не подтверждено."
+    note: "Библиографические данные и авторство подтверждаются записью в предоставленном скриншоте eLIBRARY; оригинал полного текста отдельно не сверялся."
     checked: "2026-11-24"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Profile listing only; authorship requires original proceedings."
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 0
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-005"
     type: "inproceedings"
-    category: "other"
+    category: "verified"
     author: "Коцаба, Е. В. and Яценко, Д. В."
     title: "Алгоритм предотвращения атак представления на лицевую биометрию"
     venue: "Компьютерные и информационные технологии в науке, инженерии и управлении (КомТех-2025)"
     year: 2025
     pages: "20--25"
     url: "https://ivtipt.ru/news/nedelya-nauki-ivt-i-pt-yufu2025"
-    note: "Найден доклад с Яценко как научным руководителем; авторство в сборнике не подтверждено."
+    note: "Библиографические данные и авторство подтверждаются записью в предоставленном скриншоте eLIBRARY; оригинал полного текста отдельно не сверялся."
     checked: "2026-11-24"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Profile listing only; authorship requires original proceedings."
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 1
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "DATA-001"
     type: "misc"
     category: "verified"
@@ -230,6 +270,11 @@ publications:
     scholar_evidence: "Matching title in author-provided profile screenshot."
     scholar_citations: 3
     scholar_citations_observed: "2026-11-24"
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 0
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-010"
     type: "incollection"
     category: "verified"
@@ -245,6 +290,11 @@ publications:
     checked: "2026-11-24"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Whole-volume record only; 19 citations not attributed to chapter."
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 6
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "DATA-002"
     type: "misc"
     category: "verified"
@@ -302,6 +352,11 @@ publications:
     profile_source: "https://www.researchgate.net/profile/Dmitry-Iatsenko/research"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Profile listing only; authorship requires original proceedings."
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 1
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-011"
     type: "article"
     category: "verified"
@@ -322,28 +377,43 @@ publications:
     title_en: "Improving the Efficiency of the Convolutional Neural Network Using the Method of Increasing the Receptive Field"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Matching title in author-provided profile screenshot."
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 1
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-012"
     type: "article"
-    category: "other"
+    category: "verified"
     author: "Чернышев, Ю. О. and Яценко, Д. В."
     title: "Применение перцептрона для распознавания объектов в САПР"
     venue: "Известия ТРТУ"
     year: 2000
     number: "2 (16)"
     pages: "375"
-    note: "Архивная запись из авторского списка; первоисточник не найден."
+    note: "Библиографические данные и авторство подтверждаются записью в предоставленном скриншоте eLIBRARY; оригинал полного текста отдельно не сверялся."
     checked: "2026-11-24"
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 1
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-013"
     type: "article"
-    category: "other"
+    category: "verified"
     author: "Чернышев, Ю. О. and Яценко, Д. В."
     title: "Применение нечётких систем в распределённых системах баз данных САПР"
     venue: "Известия ТРТУ"
     year: 2000
     number: "2 (16)"
     pages: "375--376"
-    note: "Архивная запись из авторского списка; первоисточник не найден."
+    note: "Библиографические данные и авторство подтверждаются записью в предоставленном скриншоте eLIBRARY; оригинал полного текста отдельно не сверялся."
     checked: "2026-11-24"
+    elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_citations: 0
+    elibrary_citations_observed: "2026-11-24"
+
   - id: "PUB-016"
     type: "inproceedings"
     category: "in_progress"
