@@ -11,6 +11,15 @@ scholar_snapshot:
   h_index: 3
   i10_index: 2
   caveat: "Profile metrics may include duplicates and whole-volume citations; not independently verified."
+scopus_snapshot:
+  profile: "https://www.scopus.com/authid/detail.uri?authorId=58654397400"
+  source: "Author-provided Scopus Preview screenshot"
+  observed: "2026-11-24"
+  documents: 2
+  citations: 6
+  citing_documents: 6
+  h_index: 1
+  caveat: "Limited access: only one of two documents displayed."
 publications:
   - id: "PUB-015"
     type: "article"
@@ -183,6 +192,8 @@ publications:
     scholar_evidence: "Matching title in author-provided profile screenshot."
     scholar_citations: 13
     scholar_citations_observed: "2026-11-24"
+    scopus_indexed: true
+    scopus_evidence: "ORCID record imported from Scopus - Elsevier; second document not visible in Scopus Preview screenshot"
   - id: "PUB-009"
     type: "article"
     category: "verified"
@@ -257,6 +268,11 @@ publications:
     scholar_evidence: "Matching title in author-provided profile screenshot."
     scholar_citations: 3
     scholar_citations_observed: "2026-11-24"
+    scopus_indexed: true
+    scopus_evidence: "Scopus Preview screenshot, 2026-11-24; document visible"
+    scopus_citations: 0
+    scopus_citations_observed: "2026-11-24"
+    scopus_profile: "https://www.scopus.com/authid/detail.uri?authorId=58654397400"
   - id: "PUB-008"
     type: "inproceedings"
     category: "other"
