@@ -600,6 +600,33 @@ publications:
     rating_caveat: "Перевод ожидается; не считать отдельной опубликованной работой"
     rating_checked: "2026-11-24"
 
+  - id: "PUB-017"
+    type: "article"
+    category: "in_progress"
+    author: "Яценко, Д. В. and Жуков, И. Ю. and Коробков, А. А."
+    title: "Защищенное визуальное сопоставление мест с криптографической проверкой и оценкой утечек вспомогательных данных"
+    target_venue: "Вопросы кибербезопасности"
+    publication_status: "manuscript_in_preparation"
+    udc: "004.056:004.93"
+    provisional_section: "Тестирование и мониторинг кибербезопасности"
+    verification_source: "Author-provided manuscript title-page screenshot and author confirmation of publication plans"
+    checked: "2026-11-24"
+    target_vak_audit: "К1 по предварительному аудиту распределения с 01.01.2024"
+    target_white_list_audit: "2 по предварительному аудиту"
+    rating_caveat: "Target journal only; submission, acceptance, publication and applicability to dissertation not confirmed."
+
+planned_publication_targets:
+  - id: "PLAN-001"
+    target_venue: "Transactions on Machine Learning Research (TMLR)"
+    status: "planned; submission status unspecified"
+    checked: "2026-11-24"
+    evidence: "Author confirmation; current manuscript title and authors pending"
+  - id: "PLAN-002"
+    target_venue: "Pattern Recognition"
+    status: "planned; submission status unspecified"
+    checked: "2026-11-24"
+    evidence: "Author confirmation; current manuscript title and authors pending"
+
 conferences:
   - id: "CONF-001"
     name: "Динамические системы и компьютерные науки: теория и приложения (DYSC 2026)"
