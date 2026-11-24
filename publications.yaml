@@ -27,6 +27,10 @@ elibrary_snapshot:
   records: 13
   citations: 41
   caveat: "Includes whole-volume record with 30 citations and a disputed authorship record; not a deduplicated personal citation total."
+ratings_audit:
+  checked: "2026-11-24"
+  report: "RATINGS.md"
+  status: "partial; current full VAK list and historical editions pending"
 publications:
   - id: "PUB-015"
     type: "article"
@@ -44,6 +48,12 @@ publications:
     translation_venue: "Biomedical Engineering (Springer)"
     translation_status: "not verified as published"
     checked: "2026-11-24"
+    vak_audit: "Не установлена; проверить перечень российских/переводных изданий и приравнивание"
+    white_list_audit: "2"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29774/"
+    rating_caveat: "Scopus указан в карточке РЦНИ; публичный выход статьи не подтверждён независимо"
+    rating_checked: "2026-11-24"
+
   - id: "PUB-001"
     type: "article"
     category: "verified"
@@ -68,6 +78,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 1
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "К1 (с 01.01.2024; строка 671)"
+    white_list_audit: "2"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29974/"
+    rating_caveat: "1.2.2, 2.3.5, 2.3.6; сверить отрасль и действующую редакцию"
+    rating_checked: "2026-11-24"
 
   - id: "WIP-002"
     type: "article"
@@ -89,6 +104,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 0
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "К1 (с 01.01.2024; строка 229)"
+    white_list_audit: "2"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29601/"
+    rating_caveat: "1.2.4, 2.2.15, 2.3.1, 2.3.5, 2.3.6; сверить отрасль и действующую редакцию"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-002"
     type: "article"
@@ -114,6 +134,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 0
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "К2 (с 01.01.2024; строка 982)"
+    white_list_audit: "3"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
+    rating_caveat: "Включён в Белый список 09.09.2025; специальности 2.2.15, 2.3.1–2.3.8, 2.5.1 по перечню 2023; актуальность сверить"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-014"
     type: "article"
@@ -139,6 +164,12 @@ publications:
     conference_version_evidence: "Provided conference paper PDF, title page and pp. 1–12; OpenReview decision screenshot. Journal and conference versions grouped as one research work."
     conference_id: "CONF-002"
     conference_website: "https://mathai.club"
+    vak_audit: "Не подтверждена"
+    white_list_audit: "Не подтверждён"
+    rating_source: "https://www.enigma.ist/j/mathematics-ai/about"
+    rating_caveat: "Журнал ОАЭ; DOI и рецензирование не доказывают ВАК"
+    rating_checked: "2026-11-24"
+
   - id: "PUB-003"
     type: "article"
     category: "verified"
@@ -162,6 +193,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 0
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "К2 (с 01.01.2024; строка 982)"
+    white_list_audit: "3 (текущий)"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
+    rating_caveat: "На дату статьи (март 2025) ещё не в Белом списке"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-004"
     type: "inproceedings"
@@ -180,6 +216,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 0
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "Не присваивать как журнальную категорию"
+    white_list_audit: "Не применимо к сборнику"
+    rating_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    rating_caveat: "Материалы конференции"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-005"
     type: "inproceedings"
@@ -198,6 +239,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 1
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "Не присваивать как журнальную категорию"
+    white_list_audit: "Не применимо к сборнику"
+    rating_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    rating_caveat: "Материалы конференции"
+    rating_checked: "2026-11-24"
 
   - id: "DATA-001"
     type: "misc"
@@ -215,6 +261,12 @@ publications:
     orcid_date: "2024-05-07"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
     scholar_evidence: "Matching title in author-provided profile screenshot."
+    vak_audit: "Не применимо"
+    white_list_audit: "Не применимо"
+    rating_source: "https://data.mendeley.com/"
+    rating_caveat: "Датасеты"
+    rating_checked: "2026-11-24"
+
   - id: "PUB-007"
     type: "incollection"
     category: "verified"
@@ -249,6 +301,12 @@ publications:
     conference_dates: "2023-09-25/2023-09-30"
     conference_location: "Saint Petersburg, Russia"
     verification_source: "Provided Springer proceedings PDF, front matter pp. v, xi and copyright page; chapter authors and pagination confirmed by contents."
+    vak_audit: "Не присваивать как журнальную категорию"
+    white_list_audit: "Не подтверждён"
+    rating_source: "https://fis.tu-dresden.de/portal/en/journals/lecture-notes-in-networks-and-systems%280ff7d173-c7ab-460f-90fc-078cff902f07%29.html"
+    rating_caveat: "Серия книг; Scopus подтверждён для работы, не означает ВАК"
+    rating_checked: "2026-11-24"
+
   - id: "PUB-009"
     type: "article"
     category: "verified"
@@ -274,6 +332,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 0
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "Не подтверждена"
+    white_list_audit: "Не подтверждён"
+    rating_source: "https://airccse.org/journal/ijsc/index.html"
+    rating_caveat: "Не путать с одноимёнными журналами"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-010"
     type: "incollection"
@@ -294,6 +357,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 6
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "Не присваивать как журнальную категорию"
+    white_list_audit: "Не применимо к монографии"
+    rating_source: "https://didact.mgpu.ru/wp-content/uploads/2025/03/sovremennaya-czifrovaya-didaktika-t2-2023.pdf"
+    rating_caveat: "Глава монографии"
+    rating_checked: "2026-11-24"
 
   - id: "DATA-002"
     type: "misc"
@@ -313,6 +381,12 @@ publications:
     scholar_evidence: "Matching title in author-provided profile screenshot."
     scholar_citations: 3
     scholar_citations_observed: "2026-11-24"
+    vak_audit: "Не применимо"
+    white_list_audit: "Не применимо"
+    rating_source: "https://data.mendeley.com/"
+    rating_caveat: "Датасеты"
+    rating_checked: "2026-11-24"
+
   - id: "PUB-006"
     type: "inproceedings"
     category: "verified"
@@ -338,6 +412,12 @@ publications:
     scopus_citations: 0
     scopus_citations_observed: "2026-11-24"
     scopus_profile: "https://www.scopus.com/authid/detail.uri?authorId=58654397400"
+    vak_audit: "Не присваивать как журнальную категорию"
+    white_list_audit: "Не подтверждён"
+    rating_source: "https://www.scopus.com/authid/detail.uri?authorId=58654397400"
+    rating_caveat: "Материалы конференции; Scopus подтверждён"
+    rating_checked: "2026-11-24"
+
   - id: "PUB-008"
     type: "inproceedings"
     category: "other"
@@ -364,6 +444,11 @@ publications:
     conference_dates: "2023-05-19/2023-05-20"
     publisher: "Уфимский университет науки и технологий"
     location: "Уфа"
+    vak_audit: "Не присваивать"
+    white_list_audit: "Не применимо"
+    rating_source: "https://elibrary.ru/item.asp?id=55928688"
+    rating_caveat: "Научное руководство, не собственное авторство"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-011"
     type: "article"
@@ -389,6 +474,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 1
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "К2 только современная категория; исторический ВАК не подтверждён"
+    white_list_audit: "3 (текущий)"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
+    rating_caveat: "Не переносить современные рейтинги на 2020"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-012"
     type: "article"
@@ -405,6 +495,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 1
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "Исторический статус не установлен; правопреемник Известия ЮФУ имеет К2"
+    white_list_audit: "4 у современного издания"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31206/"
+    rating_caveat: "Современный статус не переносить на 2000"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-013"
     type: "article"
@@ -421,6 +516,11 @@ publications:
     elibrary_evidence: "Author-provided profile screenshot"
     elibrary_citations: 0
     elibrary_citations_observed: "2026-11-24"
+    vak_audit: "Исторический статус не установлен; правопреемник Известия ЮФУ имеет К2"
+    white_list_audit: "4 у современного издания"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31206/"
+    rating_caveat: "Современный статус не переносить на 2000"
+    rating_checked: "2026-11-24"
 
   - id: "PUB-016"
     type: "inproceedings"
@@ -435,6 +535,12 @@ publications:
     verification_source: "Author-provided conference correspondence and four-page manuscript; presentation and submission confirmed by author. Final proceedings pagination and release unverified."
     reproducibility_url: "https://github.com/d-yacenko/Article24_DYSC2026"
     checked: "2026-11-24"
+    vak_audit: "Не присваивать сборнику"
+    white_list_audit: "Не подтверждён"
+    rating_source: "https://github.com/d-yacenko/Article24_DYSC2026"
+    rating_caveat: "Ожидает публикации; возможная журнальная версия отдельно"
+    rating_checked: "2026-11-24"
+
   - id: "PUB-015-EN"
     type: "article"
     category: "in_progress"
@@ -447,6 +553,11 @@ publications:
     publication_status: "awaiting_translated_publication"
     verification_source: "Editorial certificate 536 dated 2026-10-09 states that articles published in Медицинская техника are subsequently published in Biomedical Engineering. English title, publication year, issue, pages and DOI unconfirmed."
     checked: "2026-11-24"
+    vak_audit: "Не установлена"
+    white_list_audit: "4"
+    rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/2662/"
+    rating_caveat: "Перевод ожидается; не считать отдельной опубликованной работой"
+    rating_checked: "2026-11-24"
 
 conferences:
   - id: "CONF-001"
