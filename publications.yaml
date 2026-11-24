@@ -401,3 +401,16 @@ conferences:
     related_publication: "PUB-014"
     website: "https://mathai.club"
     evidence: "Author confirmation of participation; official program pp. 1, 9–10; OpenReview decision screenshot; conference paper PDF title page. Actual delivery mode not independently confirmed."
+  - id: "CONF-003"
+    name: "Ivannikov ISP RAS Open Conference 2025"
+    year: 2025
+    submission_number: 47
+    submission_date: "2025-11-05"
+    session: "Linguistic analysis systems"
+    presentation: "Combining handwriting dynamics with the modern ConvNeXtV2 convolutional backbone for handwritten character recognition on Russian- and English-language Datasets"
+    presenter: "D. V. Iatsenko (designated in submission)"
+    status: "submission positively reviewed; actual presentation not confirmed"
+    related_publication: "PUB-001"
+    website: "https://www.isprasopen.ru/2025/en/"
+    evidence: "Author-provided EasyChair submission screenshot; two positive reviews; final journal article verified in Math-Net.Ru"
+    publication_url: "https://www.mathnet.ru/eng/tisp1146"
