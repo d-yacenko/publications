@@ -38,6 +38,10 @@ wos_snapshot:
   unique_records: 11
   duplicate: "WIP-002 Russian and English titles"
   caveat: "Profile presence is not evidence of Core Collection indexing; no accession numbers shown."
+international_ratings_audit:
+  checked: "2026-11-24"
+  report: "WESTERN_RATINGS.md"
+  status: "partial; primary JCR and CiteScore verification pending"
 publications:
   - id: "PUB-015"
     type: "article"
@@ -61,6 +65,11 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29774/"
     rating_caveat: "Scopus указан в карточке РЦНИ; выход русского оригинала подтверждён автором, внешняя карточка статьи пока не сверена"
     rating_checked: "2026-11-24"
+    scopus_audit: "Scopus указан для издания в РЦНИ; статья не сверена"
+    wos_core_audit: "не установлено"
+    international_metric_audit: "Исторические CiteScore Q4 (General Medicine, 2011–2014); не переносить на 2026"
+    international_rating_source: "https://journalrank.rcsi.science/ru/record-sources/quartiles/29774/?order=Desc&page=1&pagesize=25&sort=TypeId"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-001"
     type: "article"
@@ -94,6 +103,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "Not Indexed"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "Not Indexed (профиль)"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29974/"
+    international_rating_checked: "2026-11-24"
 
   - id: "WIP-002"
     type: "article"
@@ -124,6 +138,11 @@ publications:
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "Not Indexed"
     wos_profile_entries: 2
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "Not Indexed (профиль)"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29601/"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-002"
     type: "article"
@@ -157,6 +176,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено; PUB-011: Not Indexed"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-014"
     type: "article"
@@ -190,6 +214,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://enigma.ist/j/mathematics-ai/about"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-003"
     type: "article"
@@ -222,6 +251,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено; PUB-011: Not Indexed"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-004"
     type: "inproceedings"
@@ -245,6 +279,11 @@ publications:
     rating_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
     rating_caveat: "Материалы конференции"
     rating_checked: "2026-11-24"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "журнальный квартиль неприменим"
+    international_rating_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-005"
     type: "inproceedings"
@@ -268,6 +307,11 @@ publications:
     rating_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
     rating_caveat: "Материалы конференции"
     rating_checked: "2026-11-24"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "журнальный квартиль неприменим"
+    international_rating_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    international_rating_checked: "2026-11-24"
 
   - id: "DATA-001"
     type: "misc"
@@ -293,6 +337,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
+    scopus_audit: "не применимо к журнальному рейтингу"
+    wos_core_audit: "не применимо к журнальному рейтингу"
+    international_metric_audit: "не применимо"
+    international_rating_source: "https://data.mendeley.com/"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-007"
     type: "incollection"
@@ -336,6 +385,18 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
+    scopus_audit: "подтверждено для работы (ORCID/Scopus)"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "SJR 2023: 0.171, Q4; 2025: 0.165, Q4 (лучший квартиль серии) "
+    international_rating_source: "https://www.scimagojr.com/journalrank.php?ord=desc&order=item&year=2023"
+    international_rating_checked: "2026-11-24"
+    sjr_at_publication: 0.171
+    sjr_best_quartile_at_publication: "Q4"
+    sjr_publication_year: 2023
+    sjr_latest: 0.165
+    sjr_latest_year: 2025
+    sjr_latest_best_quartile: "Q4"
+    sjr_latest_source: "https://www.scimagojr.com/journalrank.php?ord=desc&order=item&type=k"
 
   - id: "PUB-009"
     type: "article"
@@ -370,6 +431,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://airccse.org/journal/ijsc/index.html"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-010"
     type: "incollection"
@@ -395,6 +461,11 @@ publications:
     rating_source: "https://didact.mgpu.ru/wp-content/uploads/2025/03/sovremennaya-czifrovaya-didaktika-t2-2023.pdf"
     rating_caveat: "Глава монографии"
     rating_checked: "2026-11-24"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "журнальный квартиль неприменим"
+    international_rating_source: "https://didact.mgpu.ru/wp-content/uploads/2025/03/sovremennaya-czifrovaya-didaktika-t2-2023.pdf"
+    international_rating_checked: "2026-11-24"
 
   - id: "DATA-002"
     type: "misc"
@@ -422,6 +493,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
+    scopus_audit: "не применимо к журнальному рейтингу"
+    wos_core_audit: "не применимо к журнальному рейтингу"
+    international_metric_audit: "не применимо"
+    international_rating_source: "https://data.mendeley.com/"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-006"
     type: "inproceedings"
@@ -456,6 +532,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "No explicit indexing label visible; indexing unconfirmed"
+    scopus_audit: "подтверждено для работы (Scopus Preview)"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "журнальный квартиль неприменим"
+    international_rating_source: "https://www.scopus.com/authid/detail.uri?authorId=58654397400"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-008"
     type: "inproceedings"
@@ -488,6 +569,11 @@ publications:
     rating_source: "https://elibrary.ru/item.asp?id=55928688"
     rating_caveat: "Научное руководство, не собственное авторство"
     rating_checked: "2026-11-24"
+    scopus_audit: "не оценивается"
+    wos_core_audit: "не оценивается"
+    international_metric_audit: "не входит в собственную библиографическую статистику"
+    international_rating_source: "https://elibrary.ru/item.asp?id=55928688"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-011"
     type: "article"
@@ -521,6 +607,11 @@ publications:
     wos_profile_present: true
     wos_profile_observed: "2026-11-24"
     wos_profile_indexing_label: "Not Indexed"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено; PUB-011: Not Indexed"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31418/"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-012"
     type: "article"
@@ -542,6 +633,11 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31206/"
     rating_caveat: "Современный статус не переносить на 2000"
     rating_checked: "2026-11-24"
+    scopus_audit: "исторический статус неизвестен"
+    wos_core_audit: "исторический статус неизвестен"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-013"
     type: "article"
@@ -563,6 +659,11 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/31206/"
     rating_caveat: "Современный статус не переносить на 2000"
     rating_checked: "2026-11-24"
+    scopus_audit: "исторический статус неизвестен"
+    wos_core_audit: "исторический статус неизвестен"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-016"
     type: "inproceedings"
@@ -582,6 +683,11 @@ publications:
     rating_source: "https://github.com/d-yacenko/Article24_DYSC2026"
     rating_caveat: "Ожидает публикации; возможная журнальная версия отдельно"
     rating_checked: "2026-11-24"
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "не присваивать журнальный квартиль"
+    international_rating_source: "https://github.com/d-yacenko/Article24_DYSC2026"
+    international_rating_checked: "2026-11-24"
 
   - id: "PUB-015-EN"
     type: "article"
@@ -600,6 +706,13 @@ publications:
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/2662/"
     rating_caveat: "Перевод ожидается; не считать отдельной опубликованной работой"
     rating_checked: "2026-11-24"
+    scopus_audit: "показатели журнала, не статьи"
+    wos_core_audit: "Core Collection не подтверждена"
+    international_metric_audit: "SJR 2025: 0.147; Q3 Medical Laboratory Technology, Q4 Biomedical Engineering и Medicine (miscellaneous)"
+    international_rating_source: "https://www.scimagojr.com/journalsearch.php?q=28203&tip=sid"
+    international_rating_checked: "2026-11-24"
+    sjr_latest: 0.147
+    sjr_latest_year: 2025
 
   - id: "PUB-017"
     type: "article"
@@ -615,6 +728,11 @@ publications:
     target_vak_audit: "К1 по предварительному аудиту распределения с 01.01.2024"
     target_white_list_audit: "2 по предварительному аудиту"
     rating_caveat: "Target journal only; submission, acceptance, publication and applicability to dissertation not confirmed."
+    scopus_audit: "не подтверждено"
+    wos_core_audit: "не подтверждено"
+    international_metric_audit: "не установлено"
+    international_rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29601/"
+    international_rating_checked: "2026-11-24"
 
 patent_applications:
   - id: "PAT-001"
