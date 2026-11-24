@@ -354,3 +354,24 @@ publications:
     publication_status: "awaiting_translated_publication"
     verification_source: "Editorial certificate 536 dated 2026-10-09 states that articles published in Медицинская техника are subsequently published in Biomedical Engineering. English title, publication year, issue, pages and DOI unconfirmed."
     checked: "2026-11-24"
+
+conferences:
+  - id: "CONF-001"
+    name: "Динамические системы и компьютерные науки: теория и приложения (DYSC 2026)"
+    edition: 8
+    year: 2026
+    dates: "2026-09-21/2026-09-24"
+    presentation: "О применимости координатного индексного предфильтра для поиска по косинусной близости"
+    authors: "Яценко, Д. В. and Яценко, М. Д."
+    status: "presented"
+    related_publication: "PUB-016"
+    evidence: "Author confirmation, conference correspondence and manuscript"
+  - id: "CONF-002"
+    name: "International Conference on Mathematics of Artificial Intelligence (MathAI 2026)"
+    year: 2026
+    location: "Сочи, Россия"
+    presentation: "Implementation of a Cryptographic Hash Function Based on a Deep Neural Network"
+    authors: "Iatsenko, Dmitry V. and Gorin, Denis S."
+    status: "participation_reported"
+    related_publication: "PUB-014"
+    evidence: "Author confirmation and earlier publication lists; exact dates and presentation format pending"
