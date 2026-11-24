@@ -615,18 +615,6 @@ publications:
     target_white_list_audit: "2 по предварительному аудиту"
     rating_caveat: "Target journal only; submission, acceptance, publication and applicability to dissertation not confirmed."
 
-planned_publication_targets:
-  - id: "PLAN-001"
-    target_venue: "Transactions on Machine Learning Research (TMLR)"
-    status: "planned; submission status unspecified"
-    checked: "2026-11-24"
-    evidence: "Author confirmation; current manuscript title and authors pending"
-  - id: "PLAN-002"
-    target_venue: "Pattern Recognition"
-    status: "planned; submission status unspecified"
-    checked: "2026-11-24"
-    evidence: "Author confirmation; current manuscript title and authors pending"
-
 patent_applications:
   - id: "PAT-001"
     type: "patent_application"
