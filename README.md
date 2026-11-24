@@ -1,8 +1,10 @@
 # Публикации / Publications — Дмитрий Владимирович Яценко (Dmitry Iatsenko)
 
-[YAML](publications.yaml) · [BibTeX](publications.bib) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Iatsenko/research) · [ORCID](https://orcid.org/0000-0003-1014-0376) · [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58654397400)
+[YAML](publications.yaml) · [BibTeX](publications.bib) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Iatsenko/research) · [ORCID](https://orcid.org/0000-0003-1014-0376) · [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58654397400) · [Google Scholar](https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en)
 
 Обновлено 24.11.2026. Верификация означает подтверждение библиографической записи по издателю, издательским материалам или научной организации, а не рейтинга или индексации издания. Датасеты не учитываются как статьи. Сведения дополнены по предоставленным скриншотам ORCID (11 записей); самозаполненный профиль не заменяет независимую проверку.
+
+Список также сопоставлен со скриншотом Google Scholar от 24.11.2026. Повторные русско- и англоязычные записи объединены; наличие записи в профиле не заменяет проверку первоисточника. Цитирования монографии целиком не приписываются отдельной главе.
 
 ## Верифицированные публикации / Verified publications
 
