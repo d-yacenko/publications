@@ -48,7 +48,8 @@ publications:
     year: 2026
     number: "4 (358)"
     pages: "42--44"
-    publication_status: "final typeset; issue signed for printing; public release not independently confirmed"
+    publication_status: "published; release confirmed by author"
+    publication_confirmation_date: "2026-11-24"
     acceptance_reference: "536 от 09.10.2026"
     signed_for_print: "2026-11-16"
     verification_source: "Предоставленные автором издательские PDF: статья, с. 42–44; содержание и выходные данные выпуска, с. 56; справка редакции № 536 от 09.10.2026."
@@ -58,7 +59,7 @@ publications:
     vak_audit: "Не установлена; проверить перечень российских/переводных изданий и приравнивание"
     white_list_audit: "2"
     rating_source: "https://journalrank.rcsi.science/ru/record-sources/details/29774/"
-    rating_caveat: "Scopus указан в карточке РЦНИ; публичный выход статьи не подтверждён независимо"
+    rating_caveat: "Scopus указан в карточке РЦНИ; выход русского оригинала подтверждён автором, внешняя карточка статьи пока не сверена"
     rating_checked: "2026-11-24"
 
   - id: "PUB-001"
