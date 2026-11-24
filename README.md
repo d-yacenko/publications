@@ -1,5 +1,7 @@
 # Публикации / Publications — Дмитрий Владимирович Яценко (Dmitry Iatsenko)
 
+[ВАК, К1–К3 и Белый список — отдельный аудит](RATINGS.md)
+
 [YAML](publications.yaml) · [BibTeX](publications.bib) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Iatsenko/research) · [ORCID](https://orcid.org/0000-0003-1014-0376) · [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58654397400) · [eLIBRARY](https://elibrary.ru/author_items.asp?authorid=1048151) · [Google Scholar](https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en)
 
 Обновлено 24.11.2026. Верификация означает подтверждение библиографической записи по издателю, издательским материалам, научной организации или библиографической базе, а не рейтинга или индексации издания. Датасеты не учитываются как статьи. Сведения дополнены по предоставленным скриншотам ORCID (11 записей); самозаполненный профиль не заменяет независимую проверку.
