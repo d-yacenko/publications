@@ -1,6 +1,8 @@
 # Публикации / Publications — Дмитрий Владимирович Яценко (Dmitry Iatsenko)
 
-[ВАК, К1–К3 и Белый список — отдельный аудит](RATINGS.md)
+![Research portfolio dashboard](assets/dashboard.svg)
+
+[ВАК, К1–К3 и Белый список](RATINGS.md) · [Международные рейтинги / International rankings](WESTERN_RATINGS.md)
 
 [YAML](publications.yaml) · [BibTeX](publications.bib) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Iatsenko/research) · [ORCID](https://orcid.org/0000-0003-1014-0376) · [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58654397400) · [eLIBRARY](https://elibrary.ru/author_items.asp?authorid=1048151) · [Google Scholar](https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en)
 
