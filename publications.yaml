@@ -346,16 +346,24 @@ publications:
     venue: "Информационные технологии обеспечения комплексной безопасности в цифровом обществе: материалы VI Всероссийской молодежной научно-практической конференции с международным участием"
     year: 2023
     pages: "100--104"
-    url: "https://cyberrus.info/№-2-72/"
-    note: "Яценко отсутствует в найденной библиографической ссылке; авторство не подтверждено. Не учитывать как собственную публикацию. В ResearchGate запись указана под именем Яценко; требуется сверка титульной страницы оригинала."
+    url: "https://elibrary.ru/item.asp?id=55928688"
+    note: "Д. В. Яценко указан в индивидуальной карточке eLIBRARY как научный руководитель, не соавтор. Не учитывать в числе собственных публикаций."
     checked: "2026-11-24"
     profile_source: "https://www.researchgate.net/profile/Dmitry-Iatsenko/research"
     scholar_source: "https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en"
-    scholar_evidence: "Profile listing only; authorship requires original proceedings."
+    scholar_evidence: "Profile listing does not establish authorship."
     elibrary_source: "https://elibrary.ru/author_items.asp?authorid=1048151"
-    elibrary_evidence: "Author-provided profile screenshot"
+    elibrary_evidence: "Individual eLIBRARY record screenshot confirms supervisor role, not authorship."
     elibrary_citations: 1
     elibrary_citations_observed: "2026-11-24"
+    researcher_role: "scientific_supervisor"
+    own_publication: false
+    edn: "HAJMZZ"
+    elibrary_id: "55928688"
+    rins_indexed: true
+    conference_dates: "2023-05-19/2023-05-20"
+    publisher: "Уфимский университет науки и технологий"
+    location: "Уфа"
 
   - id: "PUB-011"
     type: "article"
