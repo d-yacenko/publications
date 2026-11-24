@@ -2,6 +2,8 @@
 
 ![Research portfolio dashboard](assets/dashboard.svg)
 
+Сводка: научные результаты, ВАК, Белый список, Scopus/WoS, SJR Q1–Q4 отдельно для журналов и книжных серий. Нули означают отсутствие подтверждённых данных, а не доказанное отсутствие индексации. Подробности и источники — в рейтинговых аудитах ниже.
+
 [ВАК, К1–К3 и Белый список](RATINGS.md) · [Международные рейтинги / International rankings](WESTERN_RATINGS.md)
 
 [YAML](publications.yaml) · [BibTeX](publications.bib) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Iatsenko/research) · [ORCID](https://orcid.org/0000-0003-1014-0376) · [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58654397400) · [eLIBRARY](https://elibrary.ru/author_items.asp?authorid=1048151) · [Google Scholar](https://scholar.google.com/citations?user=sCJVXXkAAAAJ&hl=en)
