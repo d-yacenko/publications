@@ -627,6 +627,23 @@ planned_publication_targets:
     checked: "2026-11-24"
     evidence: "Author confirmation; current manuscript title and authors pending"
 
+patent_applications:
+  - id: "PAT-001"
+    type: "patent_application"
+    category: "in_progress"
+    jurisdiction: "RU"
+    authority: "Роспатент"
+    application_number: "2026104377"
+    filing_date: "2026-02-18"
+    substantive_examination_request_date: "2026-02-18"
+    formal_examination_positive_notice_date: "2026-11-11"
+    fee_notice_date: "2026-11-16"
+    status_date: "2026-11-19"
+    status: "formal_examination_completed"
+    grant_confirmed: false
+    evidence: "Author-provided Rospatent application status screenshot; title and inventor list not shown; association with researcher reported by author."
+    checked: "2026-11-24"
+
 conferences:
   - id: "CONF-001"
     name: "Динамические системы и компьютерные науки: теория и приложения (DYSC 2026)"
